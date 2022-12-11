@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "447594289663",
+    "firebase_url": "https://laundreasy-rpl-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "laundreasy-rpl",
+    "storage_bucket": "laundreasy-rpl.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:447594289663:android:f92669136d348cd2d9afca",
+        "android_client_info": {
+          "package_name": "com.example.laundreasy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "447594289663-vnf0evenldqgdjo6hg12392b5it60e5n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA9ZgReb9o1XArsuT_0E9ZYVNya2f-DtkY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "447594289663-vnf0evenldqgdjo6hg12392b5it60e5n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

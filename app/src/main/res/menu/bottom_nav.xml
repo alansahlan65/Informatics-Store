@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/home"
+        android:title="Home"
+        android:icon="@drawable/ic_home_black_24dp">
+    </item>
+
+    <item
+        android:id="@+id/produk"
+        android:icon="@drawable/ic_product"
+        android:iconTint="#FFFFFF"
+        android:title="Produk">
+    </item>
+
+    <item
+        android:id="@+id/pesan"
+        android:icon="@drawable/ic_shoppingcart"
+        android:iconTint="#FFFFFF"
+        android:title="Order">
+     </item>
+
+    <item
+        android:id="@+id/riwayat"
+        android:title="Riwayat"
+        android:icon="@drawable/ic_dashboard_black_24dp"
+        android:iconTint="@color/white">
+    </item>
+
+    <item
+        android:id="@+id/profil"
+        android:icon="@drawable/ic_baseline_profile_24"
+        android:iconTintMode="add"
+        android:title="Profil"
+        android:iconTint="@color/white"></item>
+</menu>
