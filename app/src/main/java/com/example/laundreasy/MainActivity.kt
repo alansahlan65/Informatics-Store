@@ -15,7 +15,7 @@ class MainActivity : AppCompatActivity(){
     private val userViewModel : UserViewModel by viewModels()
     private lateinit var binding: ActivityMainBinding
     private val homeFragment = HomeFragment()
-    private val layananFragment = LayananFragment()
+    private val produkFragment = ProdukFragment()
     private val pesananFragment = PesananFragment()
     private val riwayatFragment = RiwayatFragment()
     private val profilFragment = ProfilFragment()
@@ -48,7 +48,7 @@ class MainActivity : AppCompatActivity(){
                 title ="Home"
             }
             R.id.produk -> {
-                navigateToFragment(layananFragment)
+                navigateToFragment(produkFragment)
                 title ="Layanan"
             }
             R.id.pesan -> {

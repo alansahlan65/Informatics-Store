@@ -25,13 +25,6 @@
                 android:value="" />
         </activity>
         <activity
-            android:name=".InformasiActivity"
-            android:exported="false">
-            <meta-data
-                android:name="android.app.lib_name"
-                android:value="" />
-        </activity>
-        <activity
             android:name=".admin.PesanAdminActivity"
             android:exported="false">
             <meta-data
@@ -54,13 +47,6 @@
         </activity>
         <activity
             android:name=".admin.AdminActivity"
-            android:exported="false">
-            <meta-data
-                android:name="android.app.lib_name"
-                android:value="" />
-        </activity>
-        <activity
-            android:name=".PesanActivity"
             android:exported="false">
             <meta-data
                 android:name="android.app.lib_name"
