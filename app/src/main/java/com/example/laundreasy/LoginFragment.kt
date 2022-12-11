@@ -54,7 +54,6 @@ class LoginFragment : Fragment(R.layout.fragment_login) {
         }
 
 //        binding.btnAdmin.setOnClickListener {
-////            Toast.makeText(activity, "BLM JADI", Toast.LENGTH_SHORT).show()
 //            startActivity(Intent(activity, AdminActivity::class.java))
 //            requireActivity().finish()
 //        }
